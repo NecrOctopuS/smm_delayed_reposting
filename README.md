@@ -17,14 +17,14 @@ You also need a key (access token) with the right to `publish_to_groups` from Fa
  
 The following data must be written to the `.env` file:
 ```text
-VK_ACCESS_TOKEN = "Your key to Vkontakte"
-VK_CLIENT_ID = 'Your Vkontakte Application ID'
-VK_GROUP_ID = 'ID of your VKontakte group'
-VK_ALBUM_ID = 'ID of your Vkontakte album'
-TELEGRAM_TOKEN = 'Your Telegram Key'
-TELEGRAM_CHAT_ID = 'Your Telegram Channel ID'
-FB_GROUP_ID = 'Your Facebook Group ID'
-FACEBOOK_TOKEN = 'Your Facebook Key'
+VK_ACCESS_TOKEN="Your key to Vkontakte"
+VK_CLIENT_ID='Your Vkontakte Application ID'
+VK_GROUP_ID='ID of your VKontakte group'
+VK_ALBUM_ID='ID of your Vkontakte album'
+TELEGRAM_TOKEN='Your Telegram Key'
+TELEGRAM_CHAT_ID='Your Telegram Channel ID'
+FB_GROUP_ID='Your Facebook Group ID'
+FACEBOOK_TOKEN='Your Facebook Key'
 SPREADSHEET_ID='1bsdfhkHUKsajsdai799SDSA' ID of your Google spreadsheet
 ```
 
